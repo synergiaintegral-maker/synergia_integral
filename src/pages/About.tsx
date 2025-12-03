@@ -31,7 +31,7 @@ const About = () => {
             Quiénes Somos
           </h1>
           <p className="text-xl text-primary-foreground/90 max-w-3xl mx-auto text-center">
-            Una organización social comprometida con la transformación de vidas a través de la educación, el bienestar y
+            Una empresa social comprometida con la transformación de vidas a través de la educación, el bienestar y
             las oportunidades
           </p>
         </div>
@@ -42,7 +42,7 @@ const About = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             <p className="text-lg text-foreground leading-relaxed mb-8 text-left">
-              Somos una organización social que acompaña a estudiantes y beneficiarios en Colombia a superar barreras
+              Somos una empresa social que acompaña a estudiantes y beneficiarios en Colombia a superar barreras
               educativas, emocionales y económicas. <strong>Levantamos sueños, derribamos barreras y construimos futuros</strong>{" "}
               mediante educación con respaldo institucional, apoyo psicológico profesional, orientación para el empleo y el
               emprendimiento, y asesoría en trámites.
