@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://synergiaintegral.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://synergiaintegral.com/quienes-somos</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://synergiaintegral.com/servicios</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://synergiaintegral.com/formacion-educativa</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://synergiaintegral.com/apoyo-psicologico</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://synergiaintegral.com/empleabilidad-emprendimiento</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://synergiaintegral.com/asesoria-legal</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://synergiaintegral.com/admisiones</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://synergiaintegral.com/faq</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://synergiaintegral.com/contacto</loc>
+    <priority>0.9</priority>
+  </url>
+</urlset>
